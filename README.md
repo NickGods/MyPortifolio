@@ -8,8 +8,9 @@
 
 #
 
-<p align="center">I'm Kayllanne, a Brazilian back-end developer passionate about crafting high-performance applications. I specialize in JavaScript and Python, creating efficient APIs and managing complex databases.
-I thrive on solving challenging problems and love collaborating with teams to turn innovative ideas into reality. Let’s connect and build something amazing together!.
+<p align="center">I'm Nikolas Ribeiro, a Full Stack Developer from São Paulo, Brazil, with a passion for building innovative and scalable web applications. I specialize in JavaScript, React, Node.js, and databases, crafting both front-end and back-end solutions.
+
+I love tackling complex challenges and collaborating with diverse teams to create impactful and high-performance systems. Let’s connect and bring your ideas to life together!.
   
 #
 <br clear="both">
