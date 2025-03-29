@@ -17,9 +17,8 @@ I love tackling complex challenges and collaborating with diverse teams to creat
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=Estatisticas%20do%20Github%20de%20kay" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kay&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevYuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=Estatisticas%20do%20Github%20de%20DevYuki" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevYuki&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
+
 </div>
 
 ###
