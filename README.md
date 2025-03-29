@@ -21,7 +21,7 @@ I love tackling complex challenges and collaborating with diverse teams to creat
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/11/0d/bd/110dbddfd3d662479c214cacb754995d.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/sparkle-hanabi-hsr-honkai-star-rail-sparkle-hsr-gif-7001030839529398110"  />
 
 ###
 <div align="left">
