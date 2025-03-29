@@ -23,6 +23,7 @@ I love tackling complex challenges and collaborating with diverse teams to creat
 
 <img align="right" height="150" src="https://media.tenor.com/7JYpyXOUyswAAAAC/sparkle-hanabi-hsr.gif" />
 
+
 ###
 <div align="left">
   <!-- Linguagens -->
