@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="https://tenor.com/view/sparkle-hanabi-hsr-honkai-star-rail-sparkle-hsr-gif-7001030839529398110">
+<img align="center" alt="" src="https://i.pinimg.com/originals/6d/e0/c4/6de0c42ed1c835e96b77b02ba3b4e428.gif">
 
 #
 
