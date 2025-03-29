@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="https://tenor.com/view/sparkle-hanabi-hsr-honkai-star-rail-sparkle-hsr-gif-7001030839529398110">
 
 #
 
@@ -48,7 +48,7 @@ I love tackling complex challenges and collaborating with diverse teams to creat
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="12" />
-
+  
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
   <img width="12" />
@@ -68,15 +68,5 @@ I love tackling complex challenges and collaborating with diverse teams to creat
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="12" />
-</div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
