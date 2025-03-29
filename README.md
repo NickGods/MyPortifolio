@@ -53,14 +53,14 @@ I love tackling complex challenges and collaborating with diverse teams to creat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
 
   <!-- APIs e Protocolos -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/REST-API-icon.png" height="30" alt="rest logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WebSockets_Logo.svg/1024px-WebSockets_Logo.svg.png" height="30" alt="websockets logo" />
+  <img src="https://raw.githubusercontent.com/microsoft/api-guidelines/main/media/rest.png" height="30" alt="rest logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WebSocket-logo.svg/1024px-WebSocket-logo.svg.png" height="30" alt="websockets logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
 
   <!-- Ferramentas e Tecnologias para Back-End -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microservices_logo.png" height="30" alt="microservices logo" />
+  <img src="https://static-00.iconduck.com/assets.00/microservices-icon-2048x2048-w0fop7g1.png" height="30" alt="microservices logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="30" alt="oauth logo" />
 
@@ -74,8 +74,9 @@ I love tackling complex challenges and collaborating with diverse teams to creat
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="tailwind css logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="vite logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Typescript-logo.svg" height="30" alt="tsx logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="tsx logo" />
 </div>
+
 
 ###
 
